@@ -1,7 +1,5 @@
 # Vehicle-Detection-and-Counting-in-Real-Time-Frame-using-Yolo-v11-Model
 
-# Vehicle Detection and Counting System
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Problem Statement](#problem-statement)
